@@ -2,37 +2,37 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-zhanghuizhen1124",
-  "commit": "88fc9d6efcf712c455ab0440a6f1fff394c762c8",
-  "score": 0,
+  "commit": "0e611f97502531279465d1d04c2de35755ce7446",
+  "score": 15,
   "totalScore": 100,
   "exercises": [
     {
       "name": "thread_spawn",
       "max": 3,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 3,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "mutex_counter",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "channel",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "process_pipe",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "mem_primitives",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "zhanghuizhen1124",
-  "runId": "38922867001",
+  "runId": "38991783437",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
